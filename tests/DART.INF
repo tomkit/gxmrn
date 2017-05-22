@@ -1,0 +1,20 @@
+===                                                       ===
+===     Non-zero returns occurred during DART             ===
+===                   processing!                         ===
+===                                                       ===
+===     This file will list the location of each          ===
+===     non-zero return. Note that some of these events   ===
+===     are always generated under normal processing to   ===
+===     mark conditions such as EOF, or file not found.   ===
+===                                                       ===
+===     Current date and time:                            ===
+        Mon Oct 30 11:21:16 2006 PST
+===                                                       ===
+==========================================================================
+
+
+ File            Line       DART Error     DB Engn    Function Called
+                 Number     (Dec)          Error(HEX)
+==========================================================================
+ db2dart.C       4686       -2             0                              
+ db2dart.C       1274       -2             0          DartTerminate(iAppRC

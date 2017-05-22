@@ -1,0 +1,17 @@
+
+
+
+The database name was not found in the database directories.
+Error: This phase encountered an error and did not complete.
+                     ______________________________________
+
+                    DB2DART Processing completed with error!
+
+                                  WARNING:                        
+                    The inspection phase did not complete!         
+
+                     ______________________________________
+
+                   Complete DB2DART report found in: TEST1.RPT
+
+    _______    D A R T    P R O C E S S I N G    C O M P L E T E    _______

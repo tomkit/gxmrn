@@ -1,0 +1,55 @@
+
+______________________________________________________________________________
+
+
+
+        _______                    DART                   _______ 
+
+   D a t a b a s e   A n a l y s i s   a n d   R e p o r t i n g   T o o l
+
+                           IBM    DB2    6000
+
+
+
+
+
+______________________________________________________________________________
+
+DART (V9.2)  Report:
+2006-10-30-11.21.05.748736
+
+            Database Name: DARTDB
+            Report name: DARTDB.RPT
+            Old report back-up: DARTDB.BAK
+            Database Subdirectory: /home2/chent/chent/NODE0000/SQL00003
+            Operational Mode: Database Inspection Only (INSPECT)
+
+______________________________________________________________________________
+------------------------------------------------------------------------------
+
+
+Action option: DXG 
+Table-object-ID: 4; Tablespace-ID: 2; First-page: 0; Number-pages: 0; Verbose: n
+
+Connecting to Buffer Pool Services...
+
+   Xda object report phase start.
+   Dump format is nonverbose.
+
+   Error: Could not open file (DARTDB.DXG) rc = -2029060086
+   Error: This phase encountered an error and did not complete.
+
+   Xda object report phase end.
+
+                     ______________________________________
+
+                    DB2DART Processing completed with error!
+
+                                  WARNING:                        
+                    The inspection phase did not complete!         
+
+                     ______________________________________
+
+                  Complete DB2DART report found in: DARTDB.RPT
+
+    _______    D A R T    P R O C E S S I N G    C O M P L E T E    _______
